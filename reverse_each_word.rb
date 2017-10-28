@@ -4,4 +4,5 @@ def reverse_each_word(string)
   string = array.join(" ")
   puts string
 end
-  
+
+reverse_each_word("hello margot")
